@@ -3,7 +3,7 @@ from selenium.webdriver.chromium.remote_connection import ChromiumRemoteConnecti
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
-# Enter your credentials - the zone name and password
+# Enter your credentials - the zone name and password ZONENAME:PASSWORD like this below is a demo
 AUTH = "brd-customer-hl_42ca5c58-zone-scrapesense:ylfzy4m4egzg"
 
 SBR_WEBDRIVER = f"https://{AUTH}@zproxy.lum-superproxy.io:9515"

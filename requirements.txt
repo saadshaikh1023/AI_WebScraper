@@ -1,0 +1,8 @@
+streamlit #This helps us to create web appilication using python with ez
+langchain 
+langchain_ollama
+selenium  #This helps us to grab data from websites with ez
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
